@@ -1,0 +1,40 @@
+{ 
+    "devices": [
+        {
+            "name":"Microscopio",
+            "brand": "Leica",
+            "station": "Piso 5",
+            "available": true
+        },
+        {
+            "name":"Microscopio",
+            "brand": "Leica2",
+            "station": "Piso 3",
+            "available": true
+        },
+        {
+            "name":"Macroscopia",
+            "brand": "Leica",
+            "station": "Piso 5",
+            "available": false
+        },
+        {
+            "name":"Microscopia",
+            "brand": "Leica",
+            "station": "Piso 5",
+            "available": true
+        },
+        {
+            "name":"Microscopio",
+            "brand": "Leica",
+            "station": "Piso 1",
+            "available": false
+        },
+        {
+            "name":"Microscopio",
+            "brand": "Leica2387",
+            "station": "Piso 6",
+            "available": true
+        }
+    ]
+}

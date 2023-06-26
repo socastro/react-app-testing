@@ -1,0 +1,45 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`cambia la clase cuando el mouse pasa encima 1`] = `
+<a
+  className="normal"
+  href="http://www.youtube.com"
+  onMouseEnter={[Function]}
+  onMouseLeave={[Function]}
+>
+  APPWEB
+</a>
+`;
+
+exports[`cambia la clase cuando el mouse pasa encima 2`] = `
+<a
+  className="hovered"
+  href="http://www.youtube.com"
+  onMouseEnter={[Function]}
+  onMouseLeave={[Function]}
+>
+  APPWEB
+</a>
+`;
+
+exports[`cambia la clase cuando el mouse pasa encima 3`] = `
+<a
+  className="normal"
+  href="http://www.youtube.com"
+  onMouseEnter={[Function]}
+  onMouseLeave={[Function]}
+>
+  APPWEB
+</a>
+`;
+
+exports[`renderiza bien 1`] = `
+<a
+  className="normal"
+  href="http://www.youtube.com"
+  onMouseEnter={[Function]}
+  onMouseLeave={[Function]}
+>
+  APPWEB
+</a>
+`;
